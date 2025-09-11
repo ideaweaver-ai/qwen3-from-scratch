@@ -168,6 +168,8 @@ The model generates coherent, creative children's stories with good narrative fl
 
 The model shows excellent convergence with both training and validation loss decreasing steadily. The loss curves indicate good generalization with minimal overfitting.
 
+![Training Loss Visualization](training_loss_plot.png)
+
 ![Training Progress](https://colab.research.google.com/drive/16IyYGf_z5IRjcVKwxa5yiXDEMiyf0u1d?usp=sharing)
 
 ## 🚀 Usage Examples
