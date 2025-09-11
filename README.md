@@ -170,7 +170,7 @@ The model shows excellent convergence with both training and validation loss dec
 
 ![Training Loss Visualization](training_loss_plot.png)
 
-![Training Progress](https://colab.research.google.com/drive/16IyYGf_z5IRjcVKwxa5yiXDEMiyf0u1d?usp=sharing)
+**Google Collab link** : https://colab.research.google.com/drive/16IyYGf_z5IRjcVKwxa5yiXDEMiyf0u1d?usp=sharing
 
 ## 🚀 Usage Examples
 
