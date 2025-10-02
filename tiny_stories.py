@@ -1,4 +1,3 @@
-!pip install tiktoken
 import tiktoken
 import os
 import numpy as np
